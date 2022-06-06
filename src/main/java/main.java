@@ -5,5 +5,6 @@ public class main {
         System.out.println("first commit");
         System.out.println("second commit");
         System.out.println("third commit");
+        System.out.println("hot-fix1 first commit");
     }
 }
